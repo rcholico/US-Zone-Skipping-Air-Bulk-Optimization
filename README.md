@@ -27,7 +27,7 @@ Shipments bound for East Coast and Northeast customers were experiencing total t
 | **Origin / Linehaul** | Tijuana (TJD) $\rightarrow$ DFW Hub via Truck (5–7 Days) | TJD $\rightarrow$ Direct Air / Intermodal to Regional Hub (1–2 Days) |
 | **Intermediate Sorting**| DFW Warehouse Processing (1–2 Days) | **Bypassed / Zone Skipped** |
 | **Last-Mile Delivery** | Parcel Ground / Home Delivery (3–4 Days) | Parcel Carrier Local Regional Hub Injection (2–3 Days) |
-| **Total Customer Transit**| **9 – 13 Days**[cite: 6] | **4 – 6 Days (60% Lead-Time Reduction)** |
+| **Total Customer Transit**| **9 – 13 Days** | **4 – 6 Days (60% Lead-Time Reduction)** |
 
 ---
 
